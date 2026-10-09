@@ -6,6 +6,12 @@ Prequisites
 ------------
 
 #### Download .exe / .jar file from:
+- [BhurpSuith Professional / Community 2026.3.3](https://portswigger.net/burp/releases/professional-community-2026-3-3)
+
+>SHA256: 99323a1ad413264a06f6fe74fd06d72c173efeafa63861c211ec129a4e2c2aa6
+>
+>MD5: 1495fee04cffd8e74dd662aea7552bdd
+
 
 - [BhurpSuith Professional / Community 2022.8.5](https://portswigger.net/burp/releases/professional-community-2022-8-5?requestededition=professional)
 
@@ -20,11 +26,13 @@ Prequisites
 >
 >MD5: fe2ed99335c68d16b57883d2bfd6aeea
 	
-#### Download Burp Loader files. Then Follow Below Steps for Activation:
-- [https://github.com/GTekSD/BhurpSuith-launcher](https://github.com/GTekSD/BurpSuit-launcher)
-- [https://github.com/decrypt3r/Burp-Loader/](https://github.com/decrypt3r/Burp-Loader/)
-	
+#### Download Burp keygen files. Then Follow Below Steps for Activation:
+- [https://github.com/GTekSD/BhurpSuith-Boot-Pro-1.7.X-2022.X-and-2026.X-Krack](https://github.com/GTekSD/BhurpSuith-Boot-Pro-1.7.X-2022.X-and-2026.X-Krack/blob/main/keygen.jar)
+
+
 #### Download and Install Java and JDK:
+For BhurpSuith Professional / Community 2026.3.3 version:
+- For JDK 21: [https://download.oracle.com/java/21/archive/jdk-21_windows-x64_bin.exe]
 
 For BhurpSuith Professional / Community 2022.8.5 version:
 - For Java 18+: - [https://www.java.com/en/download/]
@@ -46,7 +54,7 @@ Execution and Activation
 - Install JDK : (Ex. jdk-17.0.4.1_windows-x64_bin.exe)
 - Install BhurpSuith.exe normally C:\Users\\AppData\Local\Programs\BurpSuitePro
 	
-**2. Place all files in the installation folder (keygen.jar,loader.jar)**
+**2. Place all files in the installation folder (keygen.jar,keygen.jar)**
 - For Ex. Default location: C:\Users\\AppData\Local\Programs\BurpSuitePro
 	
 **3. Open Command Prompt in the installation folder**
@@ -62,7 +70,7 @@ java -jar keygen.jar
 	
 **4.2. Use BhurpSuith**
 ```
-java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"C:\Users\xyz\AppData\Local\Programs\BurpSuitePro\loader.jar" 
+java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"C:\Users\xyz\AppData\Local\Programs\BurpSuitePro\keygen.jar" 
 -noverify -jar "C:\Users\xyz\AppData\Local\Programs\BurpSuitePro\burpsuite_pro.jar"
 ```
 - *COMMAND NOT WORKING? Bcz you forget to correct path in command. Example: 'Users\xyz\AppData'*
@@ -119,9 +127,9 @@ JAR:
 >SHA256: 490c1b2abfe7f85e4eb62659b2e4be2a8d894d095a69d91fe4ee129ef6f8e68b
 >MD5: 0350199495f1d026363980b581b4aeb9
 
-#### Download Burp Loader files. Then Follow Below Steps for Activation:
+#### Download Burp keygen files. Then Follow Below Steps for Activation:
 - [https://github.com/GTekSD/BhurpSuith-launcher](https://github.com/GTekSD/BurpSuit-launcher)
-- [https://github.com/decrypt3r/Burp-Loader/](https://github.com/decrypt3r/Burp-Loader/)
+- [https://github.com/decrypt3r/Burp-keygen/](https://github.com/decrypt3r/Burp-keygen/)
 	
 #### Download and Install Java and JDK (Optional):
 
@@ -146,7 +154,7 @@ Execution and Activation
 - Install BurpSuit.sh normally /home/kali/BurpSuitePro
 ```sh /home/kali/Downloads/burpsuite_pro_linux_v2022_8_5.sh```
 	
-**2. Place all files in the installation folder (keygen.jar,loader.jar)**
+**2. Place all files in the installation folder (keygen.jar,keygen.jar)**
 - For Ex. Default location: /home/kali/BurpSuitePro
 ```
 cd BurpSuitePro-1.7.37-and-2022.8.5-Cracked
@@ -170,7 +178,7 @@ java -jar keygen.jar
 **4.2. Use BhurpSuith**
 
 ```
-java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"/home/kali/BurpSuitePro/loader.jar" -noverify -jar "/home/kali/BurpSuitePro/burpsuite_pro.jar"
+java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"/home/kali/BurpSuitePro/keygen.jar" -noverify -jar "/home/kali/BurpSuitePro/burpsuite_pro.jar"
 
 ```
 
@@ -189,7 +197,7 @@ java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"/home/kali/BurpSu
 mousepad BurpSuit-Launcher.sh
 ```
 Paste this:
-```java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"/home/kali/BurpSuitePro/loader.jar" -noverify -jar "/home/kali/BurpSuitePro/burpsuite_pro.jar"```
+```java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:"/home/kali/BurpSuitePro/keygen.jar" -noverify -jar "/home/kali/BurpSuitePro/burpsuite_pro.jar"```
 Save
 
 Run: `sh BurpSuit-Launcher.sh`
