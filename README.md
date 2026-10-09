@@ -13,11 +13,11 @@ Prequisites
 >MD5: 1495fee04cffd8e74dd662aea7552bdd
 
 
-- [BhurpSuith Professional / Community 2022.8.5](https://portswigger.net/burp/releases/professional-community-2022-8-5?requestededition=professional)
+- [BhurpSuith Professional / Community 2025.1.5](https://portswigger.net/burp/releases/professional-community-2025-1-5)
 
->SHA256: d3eb33e5d941b59aa629a28c641f1cbdd14e865ff8014daee72e61add8cfdd9b
+>SHA256: dc6b62c0879e4003884cc13910387a0a8248bf41549b33cf752aadf37c50dd1a
 >
->MD5: 7e65bbf72f1f105524bc5cb092aa9240
+>>MD5: a7e6d04fad153611d7f8f9c83e783801
 
 
 - [BhurpSuith Professional 1.7.37](https://portswigger.net/burp/releases/professional-1-7-37)
